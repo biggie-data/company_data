@@ -1,2 +1,3 @@
 # company_data
-.py notebook - towardsdatascience
+simple linear regression - towardsdatascience
+https://towardsdatascience.com/simple-linear-regression-model-using-python-machine-learning-eab7924d18b4
